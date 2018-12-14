@@ -1,0 +1,4 @@
+Room1 & 
+This room is somehow darker than the others. &
+3 4 &
+1 0 0 1 &
